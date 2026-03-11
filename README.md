@@ -17,3 +17,10 @@ The goal of this project is to explore EV growth patterns and understand which m
 ---
 
 ## 📂 Repository Structure
+-dataset
+  electric_vehicle_data.csv
+-dashboard
+  EV_Dashboard.pbix
+-images
+  dashboard_preview.png
+-README.md
